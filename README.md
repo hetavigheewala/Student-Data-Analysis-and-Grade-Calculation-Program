@@ -1,1 +1,3 @@
 # Student-Data-Analysis-and-Grade-Calculation-Program
+
+This C++ program performs student data analysis and grade calculation. It reads student data from a comma-delimited file, calculates the average score, determines the GPA (Grade Point Average), and assigns a letter grade to each student. The program uses structures to store student information, including their first and last names, scores, average score, GPAs, and grades. It then presents the analyzed data, including each student's name, grade, average, and GPA, in a tabulated report. The program demonstrates data file processing, calculations, and structured data organization for academic assessment.
